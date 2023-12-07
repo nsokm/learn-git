@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <p>
-      Koranut Boonsukkerd(Lookmee)    
+      Koranut Boonsukkerd(okm)    
       </p>
         <img src={logo} className="App-logo" alt="logo" />
         
