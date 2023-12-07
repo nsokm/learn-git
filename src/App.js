@@ -1,9 +1,5 @@
 import './App.css';
-<<<<<<< HEAD
 import logo from './img.jpg';
-=======
-import logo from './logo.svg';
->>>>>>> main
 
 function App() {
   return (
